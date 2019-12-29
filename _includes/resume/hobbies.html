@@ -1,0 +1,31 @@
+<section class="py-8 bg-grey-lighter">
+  <div class="container mx-auto max-w-3xl px-3">
+    <h2 class="resume-title">Mes centres d'intérêts</h2>
+
+    <div class="flex flex-wrap justify-around">
+      {% include resume/components/hobbie.html
+                  icon = "keyboard"
+                  subtitle  = "Développement" %}
+
+      {% include resume/components/hobbie.html
+                  icon = "plane"
+                  subtitle  = "Voyages" %}
+
+      {% include resume/components/hobbie.html
+                  icon = "pencil-alt"
+                  subtitle  = "Design" %}
+
+      {% include resume/components/hobbie.html
+                  icon = "table-tennis"
+                  subtitle  = "Squash" %}
+  
+      {% include resume/components/hobbie.html
+                  icon = "running"
+                  subtitle  = "Parkour" %}
+
+      {% include resume/components/hobbie.html
+                  icon = "film"
+                  subtitle  = "Cinema" %}
+    </div>
+  </div>
+</section>

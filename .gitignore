@@ -1,5 +1,9 @@
 _site
+_drafts
 .sass-cache
-.jekyll-cache
 .jekyll-metadata
-vendor
+js
+css
+fonts
+node_modules
+_includes/head.html
