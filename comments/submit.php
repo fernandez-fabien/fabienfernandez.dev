@@ -17,7 +17,7 @@
 
 
 $DATE_FORMAT = 'Y-m-d H:i:s';
-$EMAIL_ADDRESS = 'fernandezfabien38@gmail.com';
+$EMAIL_ADDRESS = 'contact@fabienfernandez.dev';
 $SUBJECT = 'Nouveau commentaire sur le blog fabienfernandez.dev;
 
 /****************************************************************************
