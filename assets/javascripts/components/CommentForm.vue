@@ -47,7 +47,7 @@
       </div>
 
       <div v-if="!isPosted" class="flex justify-end">
-        <button :class="{ 'opacity-50 cursor-not-allowed': isDisabled }" class="bg-white border border-indigo hover:bg-indigo hover:text-white cursor-pointer text-indigo shadow py-2 px-4 rounded w-full sm:w-auto" type="submit">
+        <button :class="{ 'opacity-50 cursor-not-allowed': isDisabled }" class="bg-white border border-purple hover:bg-purple hover:text-white cursor-pointer text-purple shadow py-2 px-4 rounded w-full sm:w-auto" type="submit">
           <i v-if="isLoading" class="fa fa-spinner fa-spin fa-fw"></i>
           Laisser un commentaire
         </button>
