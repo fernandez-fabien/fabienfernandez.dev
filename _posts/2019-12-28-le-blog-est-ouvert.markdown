@@ -18,4 +18,4 @@ Mais je suis ravi à l'idée de pouvoir enfin **partager** et que ce projet soit
 
 Encore beaucoup de boulot à venir et de bonnes habitudes à prendre mais quand on aime on ne compte pas !
 
-Fabien.
+<p class="signature text-right">Fabien Fernandez</p>
