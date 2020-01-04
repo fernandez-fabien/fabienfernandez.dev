@@ -1,41 +1,35 @@
 {% capture site_title %}
-<a class="text-5xl font-semibold text-black" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+<a class="mr-4 text-3xl font-semibold text-black flex-shrink-0" title="Page d'accueil {{ site.title_home | escape }}" href="{{ "/" | relative_url }}"><img class="header-logo" src="{{ "/assets/images/FF-logo.png" | relative_url }}" alt="Logo Fabien Fernandez">{{ site.title_home | escape }}</a>
 {% endcapture %}
 
-<div class="border-t-4 border-purple">
-  <header class="container mx-auto max-w-xl px-3">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.header_pages | default: default_paths %}
+<header class="shadow px-3 border-purple border-t-4 mb-8">
+  {% assign default_paths = site.pages | map: "path" %}
+  {% assign page_paths = site.header_pages | default: default_paths %}
 
-    <div class="my-8">
+  <nav class="container mx-auto max-w-2xl text-grey">
+    <div class="-my-4px py-4 flex flex-col lg:flex-row flex-wrap justify-between items-baseline">
       {% if page.url == '/' or page.layout == 'resume' %}
         <h1>{{ site_title }}</h1>
       {% else %}
         {{ site_title }}
       {% endif %}
+
+      {% if page_paths %}
+      <div class="flex flex-col lg:flex-row items-baseline lg:w-auto">
+        <a class="hidden sm:inline-block header-link sm:text-base md:text-lg {% if page.layout == 'post' or page.url == '/' %}text-purple-dark underline{% else %}text-grey-darker{% endif %}" href="{{ '/' | relative_url }}">Blog</a>
+        {% for path in page_paths %}
+          {% assign my_page = site.pages | where: "path", path | first %}
+          {% unless my_page.exclude %}
+            {% if my_page.title %}
+            <a class="header-link inline-block sm:text-base md:text-lg {% if page.url == my_page.url %}text-purple-dark underline{% else %}text-grey-darker{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+            {% endif %}
+          {% endunless %}
+        {% endfor %}
+
+        <a class="header-link sm:text-base md:text-lg {% if page.url == '/recherche/' %}text-purple-dark underline{% else %}text-grey-darker{% endif %}" href="{{ site.baseurl }}{% link search.html %}" aria-label="Rechercher">
+          <i class="fa fa-search" aria-hidden="true"></i>
+        </a>
+      {% endif %}
     </div>
-
-    {% if page_paths %}
-      <nav class="my-8 text-grey border-b-2">
-        <div class="-my-2px flex justify-between">
-          <div>
-            <a class="hidden sm:inline-block header-link sm:text-base md:text-lg {% if page.layout == 'post' or page.url == '/' %}text-black border-purple{% else %}text-grey-darker{% endif %}" href="{{ '/' | relative_url }}">Blog</a>
-
-            {% for path in page_paths %}
-              {% assign my_page = site.pages | where: "path", path | first %}
-              {% unless my_page.exclude %}
-                {% if my_page.title %}
-                <a class="header-link inline-block sm:text-base md:text-lg {% if page.url == my_page.url %}text-black border-purple{% else %}text-grey-darker{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-                {% endif %}
-              {% endunless %}
-            {% endfor %}
-          </div>
-
-          <a class="header-link sm:text-base md:text-lg {% if page.url == '/recherche/' %}text-black border-purple{% else %}text-grey-darker{% endif %}" href="{{ site.baseurl }}{% link search.html %}" aria-label="Rechercher">
-            <i class="fa fa-search" aria-hidden="true"></i>
-          </a>
-        </div>
-      </nav>
-    {% endif %}
-  </header>
-</div>
+  </nav>
+</header>

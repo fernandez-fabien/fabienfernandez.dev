@@ -1,11 +1,13 @@
 <div class="bg-black text-white px-3 pt-6">
-  <footer class="container mx-auto max-w-xl flex flex-wrap md:flex-no-wrap">
+  <footer class="container mx-auto max-w-2xl flex flex-wrap md:flex-no-wrap">
     <div class="mb-6 mr-6">
-      {% if site.author.name %}
-        {{ site.author.name | escape }}
-      {% else %}
-        {{ site.title | escape }}
-      {% endif %}
+      <p class="text-2xl">
+        {% if site.author.name %}
+          {{ site.author.name | escape }}
+        {% else %}
+          {{ site.title_home | escape }}
+        {% endif %}
+      </p>
 
       {% if site.email %}
         <p>
