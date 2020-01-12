@@ -1,0 +1,37 @@
+---
+layout: post
+title: "Todolist, l'outil magique ?"
+categories: "Méthodologie"
+published: true
+---
+À l’heure où j’écris cet article, c’est la nouvelle année, le temps des grandes résolutions ! L’idée c’est de faire une liste des nouvelles choses à faire ou mettre en place pour que l’année soit meilleure que la dernière. C’est là qu’intervient la **Todolist**, l’outil simple, mais qui semble être la solution ultime ! Et oui, c’est souvent les outils les plus simples qui sont les plus efficaces ! 
+
+## Le concept de la Todolist
+
+On est tous déjà passé par la liste de course, papier ou numérique, l’essentiel c’est que ça reste utile pour ne rien oublier, parce que la frustration de revenir sans avoir la chose pour laquelle on se déplaçait principalement est puissante. 
+Elle a prouvé son efficacité, alors pourquoi ne pas l’utiliser au quotidien que ça soit professionnellement ou personnellement. 
+Le concept de la Todolist est ainsi de noter l’ensemble des tâches ou actions que l’on souhaite réaliser dans un futur plus ou moins proche afin de ne rien oublier et pouvoir à tout moment avoir la vision sur ce qu’il reste à faire.  
+
+## Un outil magique ?
+
+Comme une simple liste de course, cette dernière peut prendre plusieurs formes, que ça soit manuscrit ou numérique, il existe un ensemble d’applications permettant de créer des listes simples ou plus spécifiques. 
+C’est d’ailleurs l’un des exercices privilégiés lors de l’apprentissage d’un langage de programmation ou d’un framework, après le fameux “Hello world”, vient la réalisation de son application de todolist type. 
+
+Cette solution à la fois facile d’utilisation et assez complète pour apprendre les bases du développement semble vraiment être un aboutissement total dans l’organisation de tout un chacun au quotidien.
+Mais malgré cette belle idée, la todolist peut rapidement devenir un simple **cimetière nommé procrastination**. 
+En effet, de ma propre expérience quand j’ai commencé à vouloir utiliser la todolist, malgré une motivation apportée par cette nouvelle procédure triviale, j’ai assez vite déchanté parce que ma routine n’avait pas été impactée positivement. 
+Tout est dans la description c’est et ça reste un **OUTIL**, c’est-à-dire qu’il est nécessaire qu’il prenne sa place dans un système et sa vraie destinée c’est seulement d’améliorer le procédé. 
+
+## Un dispositif qui doit rentrer dans une méthodologie complète
+
+Comme on a pu le voir, la todolist seule est loin d’être l’outil magique révolutionnaire. 
+Elle doit être intégrée dans un processus d’organisation plus général qui peut être plus ou moins abouti ou exhaustif en fonction du besoin. L’essentiel pour moi réside en deux points cruciaux : 
+* **Prioriser et trier** : En effet, dans une liste où l’on peut se permettre de tout noter il est important de pouvoir différencier facilement ce qui peut être urgent et/ou important de ce qu’il ne l’ait pas. Pour ce faire, plusieurs méthodes s’offrent à vous le tout et de déterminer une façon de déterminer un indice de priorité de l’action ou de la tâche à réaliser. 
+* **Mettre à jour** : Tout d’abord, l’essentiel pour éviter que la liste ne tombe pas dans l’oubli c’est de consacrer régulièrement  du temps. Si par exemple je fais simplement une liste des idées qui me passe par la tête de temps en temps pour ne pas les oublier, si jamais je ne prends jamais le temps de relire ses idées l’outil devient alors inutile.
+Plus que de prendre du temps pour consulter cette liste il faut la maintenir à jour avec les éléments réalisés ou non voir créer des catégories plus poussées. 
+
+Pour aller plus loin, il est intéressant d’utiliser des objectifs **SMART** pour s’organiser, mais j’en reparlerai plus en détail plus tard dans un article dédié. 
+Pour commencer à organiser ses todolist de meilleure manière, il existe des outils comme [Trello](https://trello.com) qui reste encore à l’heure actuelle le leader dans son domaine. 
+
+
+<p class="signature text-right">Fabien Fernandez</p>
