@@ -13,5 +13,3 @@ Ce dernier ne s'adresse pas seulement aux personnes techniques, les thématiques
 En cas de questionnement n'hésites pas à me contacter via le formulaire de contact, je me ferais une joie de te répondre.
 
 Je te souhaite une bonne navigation et une bonne lecture sur le blog !
-
-<p class="signature text-right">Fabien Fernandez</p>
