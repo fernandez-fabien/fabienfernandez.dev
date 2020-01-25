@@ -33,7 +33,9 @@ module.exports = merge(common, {
           extractor: TailwindExtractor,
           extensions: ['html', 'js', 'vue']
         }
-      ]
+      ],
+      whitelist: ['svg-inline--fa'],
+      whitelistPatterns: [/shiki/, /fa-$/, /fas/, /fab/]
     }),
     new webpack.LoaderOptionsPlugin({
       minimize: true
