@@ -15,7 +15,7 @@ Le problème est si profond que des études sont menées, qui ont par exemple re
 
 Les impacts sont assez forts et négatifs, mais les réunions ne sont pas pour autant des outils désuets de sens, peut-être simplement mal exploitées ?  
 
-## Comment s’adapter ? 
+## Comment s’adapter ? 
 
 La réunion reste un outil qui doit respecter certains critères pour être utilisé de manière optimale : 
 * **Un but** :  La réunion doit avoir un objectif que ça soit un simple passage d’information ou plus communément une prise de décision sur un sujet. Ce but doit être connu de tous avant le début de la réunion via une communication de l’objet de cette dernière qui sera donné en même temps que la convocation.
