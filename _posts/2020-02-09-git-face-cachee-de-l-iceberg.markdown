@@ -44,12 +44,12 @@ Pour ce faire il faut se poser des questions importantes du type :
 * Plusieurs versions du projet vont-elles être nécessaires d’être utilisées en même temps durant la réalisation du projet, que ça soit pour les tests ou autre ?
 Cette liste n’est pas exhaustive, mais permet de mettre en exergue la nécessité de découpage plus ou moins profond de différentes strates de branches.
 
-## Abats les masques 
+## Bas les masques 
 
 Comme on a pu le dire précédemment, Git est un outil très utilisé de par sa simplicité pour répondre aux besoins primordiaux. 
 Cette simplicité ne doit pas nous faire fermer les yeux sur la flexibilité de l’outil et donc la sécurité à mettre autour. 
 
-L’importance de gérer des droits surtout dans le cadre d’une intégration continue mais dans n’importe quel contexte les droits de push sur les différentes branches principales du projet ne doivent pas être gérés par défaut. Il faut pouvoir gérer les accès pour contrôler les changements convenablement.
+L’importance de gérer des droits surtout dans le cadre d’une intégration continue mais dans n’importe quel contexte les **droits de push** sur les différentes branches principales du projet ne doivent pas être gérés par défaut. Il faut pouvoir gérer les accès pour contrôler les changements convenablement.
 De plus même avec une gestion de sécurité un peu avancée, il ne faut pas perdre à l’idée que Git n’est pas un outil de sauvegarde, que l’historique d’un projet Git est manipulable et qu’il ne garantit en rien la sauvegarde des données, même si dans les cas simples il peut permettre de revenir sur des versions demandées, ce ne doit pas être le principal outil de sauvegarde de vos projets.
 
 Pour conclure, je dirais simplement que lorsque l’on utilise des outils qui nous simplifient la vie il est toujours intéressant de s’intéresser au fonctionnement concret. J’utilise par exemple un utilitaire graphique pour utiliser Git mais je me suis d’abord forcé à comprendre et utiliser les lignes de commandes avant de passer sur cet outil afin d’être plus en maîtrise sur les actions que je réalise. 
