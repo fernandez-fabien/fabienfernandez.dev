@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Git, la face cachée de l'iceberg"
-categories: "Méthodologie Développement-Web"
+categories: [Méthodologie, Développement-Web]
 published: true
 ---
 
