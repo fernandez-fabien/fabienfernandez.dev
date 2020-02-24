@@ -24,7 +24,7 @@ L'**illectronisme** c’est en fait l’inhabilité numérique, par analogisme, 
 
 Selon le ministère de la Recherche et de l’Économie numérique, 15% de la population française serait touchée par ce phénomène. Un nombre qui ne peut clairement pas être négligé. 
 
-L’éducation nationale se transforme à son rythme afin d’accompagner l’apprentissage dans cette voie de **numérisation**. C’est nécessaire, mais peu de choses sont mises en place pour accompagner les adultes qui ne sont plus en étude ou ne l’ont jamais été et qui font face à des problématiques d’autonomie pour réaliser des actions qui peuvent paraître trivial : rédiger un CV, faire un achat en ligne, remplir sa déclaration d’impôt ou tout simplement s’informer …
+L’éducation nationale se transforme à son rythme afin d’accompagner l’apprentissage dans cette voie de **numérisation**. C’est nécessaire, mais peu de choses sont mises en place pour accompagner les adultes qui ne sont plus en étude ou ne l’ont jamais été et qui font face à des problématiques d’autonomie pour réaliser des actions qui peuvent paraître triviales : rédiger un CV, faire un achat en ligne, remplir sa déclaration d’impôt ou tout simplement s’informer …
 
 Mais au lieu d’attendre des actions nationales, pouvons-nous, à notre niveau, aider à rattraper cette **fracture numérique** ?  
 

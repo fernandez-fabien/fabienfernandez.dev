@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "L’accessibilité Web"
-categories: "Développement-web"
+categories: "Développement-Web"
 published: true
 ---
 
