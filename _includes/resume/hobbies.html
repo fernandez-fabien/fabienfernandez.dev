@@ -1,31 +1,44 @@
 <section class="py-8 bg-grey-lighter">
   <div class="container mx-auto max-w-3xl px-3">
+    <div class="mb-4 fas fa-running fa-3x hidden"></div>
     <h2 class="resume-title">Mes centres d'intérêts</h2>
 
     <div class="flex flex-wrap justify-around">
-      {% include resume/components/hobbie.html
-                  icon = "brain"
-                  subtitle  = "Mentalisme" %}
+      <div class="w-1/2 sm:w-1/3 md:w-auto text-center mb-6 md:mb-0">
+        <div class="mb-4 fas fa-brain fa-3x"></div>
+      
+        <div class="text-sm text-grey-darker">Mentalisme</div>
+      </div>
 
-      {% include resume/components/hobbie.html
-                  icon = "plane"
-                  subtitle  = "Voyages" %}
+      <div class="w-1/2 sm:w-1/3 md:w-auto text-center mb-6 md:mb-0">
+        <div class="mb-4 fas fa-plane fa-3x"></div>
+      
+        <div class="text-sm text-grey-darker">Voyages</div>
+      </div>
 
-      {% include resume/components/hobbie.html
-                  icon = "pencil-alt"
-                  subtitle  = "Design" %}
+      <div class="w-1/2 sm:w-1/3 md:w-auto text-center mb-6 md:mb-0">
+        <div class="mb-4 fas fa-pencil-alt fa-3x"></div>
+      
+        <div class="text-sm text-grey-darker">Design</div>
+      </div>
 
-      {% include resume/components/hobbie.html
-                  icon = "table-tennis"
-                  subtitle  = "Squash" %}
-  
-      {% include resume/components/hobbie.html
-                  icon = "running"
-                  subtitle  = "Parkour" %}
+      <div class="w-1/2 sm:w-1/3 md:w-auto text-center mb-6 md:mb-0">
+        <div class="mb-4 fas fa-table-tennis fa-3x"></div>
+      
+        <div class="text-sm text-grey-darker">Squash</div>
+      </div>
 
-      {% include resume/components/hobbie.html
-                  icon = "film"
-                  subtitle  = "Cinema" %}
+      <div class="w-1/2 sm:w-1/3 md:w-auto text-center mb-6 md:mb-0">
+        <div class="mb-4 fas fa-brain fa-3x"></div>
+      
+        <div class="text-sm text-grey-running">Parkour</div>
+      </div>
+
+      <div class="w-1/2 sm:w-1/3 md:w-auto text-center mb-6 md:mb-0">
+        <div class="mb-4 fas fa-film fa-3x"></div>
+      
+        <div class="text-sm text-grey-darker">Cinema</div>
+      </div>
     </div>
   </div>
 </section>
