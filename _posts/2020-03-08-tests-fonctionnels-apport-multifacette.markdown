@@ -7,7 +7,7 @@ published: true
 
 À la suite de notre article abordant la base de la pyramide via la [méthodologie du TDD]({% post_url 2020-03-01-tdd-investissement-trop-consequent %}) j’ai nommé les tests unitaires. On va maintenant parler de la partie haute de cet ensemble, les tests fonctionnels et ce qu’ils apportent à leur niveau. 
 
-{% include image.html img = "2020/03/pyramide.png" title = "Schéma de la pyramide des tests" %}
+{% include image.html img = "2020/03/pyramide.png" title = "Schéma de la pyramide des tests" style = "w-1/2" %}
 
 On peut se dire que les tests unitaires (TU) peuvent être suffisants, comme ils apportent des bases solides donnant par conséquent une garantie de meilleure qualité.
 

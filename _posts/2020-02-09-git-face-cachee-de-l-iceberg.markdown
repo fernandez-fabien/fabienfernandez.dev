@@ -27,7 +27,7 @@ Mais du coup si la plupart des développeurs n’utilisent qu’une très petite
 Disons en fait qu’au niveau des commandes tapées les différences ne seront pas vraiment notables cependant c’est l’utilisation dans son ensemble et notamment l’organisation des **branches** qui peut fortement être différent d’un projet à l’autre. 
 Vous avez peut-être déjà entendu parler de “**Gitflow**”, ce terme désigne en fait simplement une manière d’organiser son projet (certainement la plus populaire) et surtout l’architecture des branches. 
 
-{% include image.html img = "2020/02/gitflow.png" title = "Schéma de la méthode Git-flow" %}
+{% include image.html img = "2020/02/gitflow.png" title = "Schéma de la méthode Git-flow" style = "w-2/3" %}
 
 Sans rentrer trop dans les détails, le principe de base est que le projet sera basé sur deux branches principales : **master** et **develop**. Ces deux branches ne sont pas accessibles en écriture aux développeurs. 
 La branche master servant uniquement de miroir de la production, avec des annotations des différentes versions.
