@@ -34,7 +34,7 @@ Aller, je ne vous fais pas attendre plus longtemps. J’ai pour ma part choisi d
 Tout comme ses concurrents plus récents comme Hugo ou Gatsby, Jekyll va permettre de réaliser ce que j’appelle un site “statique dynamique”. C’est paradoxal, mais l’idée derrière tout cela, c’est que l’on aura à la fin un site complètement statique (simple structure HTML, CSS) mais ces pages seront générées via des outils qui permettent de gérer des templates et autres types de fonctionnalité générique qui permette d’automatiser des parties. 
 Je pourrais aller plus loin dans le détail de l’outil si cela vous intéresse dans un prochain article. 
 
-{% include image.html img = "2020/03/wordpress-jekyll.png" title = "Wordpress versus Jekyll" %}
+{% include image.html img = "2020/03/wordpress-jekyll.png" title = "Wordpress versus Jekyll" style = "w-1/2" %}
 
 En attendant, je vais plutôt vous présenter les avantages que présente cette solution par rapport à un site Wordpress classique : 
 * *Gain de performance* : Le rendu visuel est le même est pourtant le site est plus rapide. En effet, le fait que l’ensemble des pages soient compilées et rendues en **pages statiques** HTML fait que ces dernières n’ont pas à être générées à chaque venue sur le site. Il n’y pas de nombreuses requêtes redondantes qui sont faites, il n’y a tout simplement pas de liaison à une base de données, les chargements sont donc plus rapides. La qualité de l’expérience utilisateur est augmentée.

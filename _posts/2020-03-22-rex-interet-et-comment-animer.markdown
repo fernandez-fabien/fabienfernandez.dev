@@ -49,7 +49,7 @@ On va retranscrire l’ensemble des bonnes pratiques et procédures qui peuvent 
 -    Supports
 -    …
 
-{% include image.html img = "2020/03/rex.jpeg" title = "Image d'illustration du retour d'expérience" %}
+{% include image.html img = "2020/03/rex.jpeg" title = "Image d'illustration du retour d'expérience" style = "w-1/2" %}
 
 Pour formaliser ces **bonnes pratiques**, on va se poser des questions simples.
 Qu’est-ce qui marche bien et peut être reproduit et/ou maintenu ? 
