@@ -435,6 +435,7 @@ module.exports = {
     'sm': '.125rem',
     default: '.25rem',
     'lg': '.5rem',
+    'xl': '.75rem',
     'full': '9999px',
   },
 
