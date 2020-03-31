@@ -3,6 +3,7 @@ layout: post
 title: "Un blog sans Wordpress ?"
 categories: [Développement-Web]
 published: true
+image: "2020/03/wordpress-jekyll.png"
 ---
 
 Est-ce que je dois encore le présenter, [Wordpress](https://fr.wordpress.com/) est tout simplement l’outil de gestion de contenu le plus populaire au monde. Environ 35% des sites de la planète tournent sous Wordpress, tous sites confondus. 

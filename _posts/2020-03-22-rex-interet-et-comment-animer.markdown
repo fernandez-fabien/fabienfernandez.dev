@@ -3,6 +3,7 @@ layout: post
 title: "REX, son intérêt et comment l'animer"
 categories: [Méthodologie]
 published: true
+image: "2020/03/rex.jpeg"
 ---
 
 Bien vu, REX n’est pas le nom d’un chien, c’est simplement l’acronyme de Retour d’Expérience. 

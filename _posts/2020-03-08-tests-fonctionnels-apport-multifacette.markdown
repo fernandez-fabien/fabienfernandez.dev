@@ -3,6 +3,7 @@ layout: post
 title: "Les tests fonctionnels, un apport multifacette"
 categories: [Méthodologie, Développement-Web]
 published: true
+image: "2020/03/pyramide.png"
 ---
 
 À la suite de notre article abordant la base de la pyramide via la [méthodologie du TDD]({% post_url 2020-03-01-tdd-investissement-trop-consequent %}) j’ai nommé les tests unitaires. On va maintenant parler de la partie haute de cet ensemble, les tests fonctionnels et ce qu’ils apportent à leur niveau. 

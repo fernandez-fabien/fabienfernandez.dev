@@ -3,6 +3,7 @@ layout: post
 title: "La méthode du canard en plastique"
 categories: [Méthodologie]
 published: true
+image: "2020/03/canard.jpg"
 ---
 
 Vous êtes il déjà arrivé de rester bloqué sur une problématique durant des heures voir peut-être des jours ? 

@@ -3,6 +3,7 @@ layout: post
 title: "Télétravail, une organisation rentable ?"
 categories: [Méthodologie]
 published: true
+image: "2020/03/teletravail.png"
 ---
 
 Malheureusement à l’heure où j’écris ces lignes, nous vivons des moments de crise avec l’avancée du Covid-19 (Coronavirus). Et si plutôt que de se lamenter ou céder à la panique, on en profitait pour parler de sujets que ce dernier remet au goût du jour ! 

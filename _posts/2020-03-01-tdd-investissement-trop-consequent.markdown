@@ -3,6 +3,7 @@ layout: post
 title: "TDD, un investissement trop conséquent ?"
 categories: [Méthodologie, Développement-Web]
 published: true
+image: "2020/03/cycle-tdd.png"
 ---
 
 Vous avez peut-être déjà entendu parler de **TDD (Test Driven Development)**. Ce terme désigne en fait une méthodologie qui nous permet d’allier tests unitaires et programmation de manière organisée.

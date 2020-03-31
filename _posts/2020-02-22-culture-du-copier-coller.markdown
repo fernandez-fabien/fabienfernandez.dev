@@ -3,6 +3,7 @@ layout: post
 title: "La culture du copier-coller "
 categories: [Méthodologie, Développement-Web]
 published: true
+image: "2020/02/copier-coller.jpg"
 ---
 
 Cette semaine nous déplorons le décès de Lawrence aussi appelé **Larry Tesler**.

@@ -3,6 +3,7 @@ layout: post
 title: "Comment tendre vers l'amélioration continue ?"
 categories: [Méthodologie]
 published: true
+image: "2020/04/pdca.png"
 ---
 
 Que pourrait-on rêver de mieux que se réveiller chaque jour en étant une meilleure version de nous-mêmes que la vieille ? 

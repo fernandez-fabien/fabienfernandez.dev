@@ -104,14 +104,6 @@ let colors = {
   'blue-lighter': '#bcdefa',
   'blue-lightest': '#eff8ff',
 
-  'purple-darkest': '#191e38',
-  'purple-darker': '#2f365f',
-  'purple-dark': '#5661b3',
-  'purple': '#6574cd',
-  'purple-light': '#7886d7',
-  'purple-lighter': '#b2b7ff',
-  'purple-lightest': '#e6e8ff',
-
   'purple-darkest': '#21183c',
   'purple-darker': '#382b5f',
   'purple-dark': '#794acf',
@@ -468,6 +460,7 @@ module.exports = {
   */
 
   width: {
+    '0': '0',
     'auto': 'auto',
     'px': '1px',
     '1': '0.25rem',
@@ -528,8 +521,10 @@ module.exports = {
     '10': '2.5rem',
     '12': '3rem',
     '16': '4rem',
+    '20': '5rem',
     '24': '6rem',
     '32': '8rem',
+    '40': '10rem',
     '48': '12rem',
     '64': '16rem',
     'full': '100%',

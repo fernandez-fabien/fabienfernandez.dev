@@ -3,6 +3,7 @@ layout: post
 title: "L’illectronisme, retour sur expérience"
 categories: "Story-telling"
 published: true
+image: "2020/02/emmaus-connect.jpg"
 ---
 
 Nous sommes en 2020 et ça fait déjà plusieurs années qu’on est passé dans le siècle appelé le **siècle du numérique**.

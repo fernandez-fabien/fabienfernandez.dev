@@ -1,0 +1,17 @@
+.grid
+    display: grid
+
+.gap
+    gap: 1rem
+    @screen md
+        gap: 2rem
+    @screen lg
+        gap: 2.5rem
+
+.grid-cols
+    grid-template-columns: repeat(1, minmax(0,1fr))
+    @screen md
+        grid-template-columns: repeat(2, minmax(0,1fr))
+    @screen lg 
+        grid-template-columns: repeat(3, minmax(0,1fr))
+    

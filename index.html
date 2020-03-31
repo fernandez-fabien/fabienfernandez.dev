@@ -1,19 +1,34 @@
 ---
 layout: default
 ---
-
-<ul class="list-reset">
+<ul class="list-reset grid grid-cols gap mb-10">
   {% for page in paginator.posts %}
-    <li class="mb-6" itemscope itemtype="http://schema.org/BlogPosting">
-      <h2 class="font-semibold m-0">
-        <a href="{{ page.url | relative_url }}">
-          <span itemprop="name">{{ page.title | escape }}</span>
-        </a>
-      </h2>
+    <li class="rounded bg-grey-lightest p-4" itemscope itemtype="http://schema.org/BlogPosting">
+      <div class="w-full">
+        {% if page.image %}
+          {% assign postImage = page.image %}
+        {% else %}
+          {% assign postImage = "FF-logo.png" %}
+        {% endif %}
+        {% capture image_url %}
+          {{ postImage | prepend: '/assets/images/' | prepend: site.baseurl }}
+        {% endcapture %}
+        <img src="{{ image_url | strip }}" class="block m-auto h-40" />
+      </div>
 
-      <div class="text-grey-dark text-sm">
-        Le <span itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | localize: ":excerpt" }}</span>
-        dans <span itemprop="articleSection">{{ page.categories | join: ', ' }}</span>
+      <div class="w-full">
+        <div class="pt-4">
+          <h2 class="font-semibold m-0">
+            <a href="{{ page.url | relative_url }}">
+              <span itemprop="name">{{ page.title | escape }}</span>
+            </a>
+          </h2>
+
+          <div class="text-grey-dark text-sm">
+            Le <span itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | localize: ":excerpt" }}</span>
+            dans <span itemprop="articleSection">{{ page.categories | join: ', ' }}</span>
+          </div>
+        </div>
       </div>
     </li>
   {% endfor %}

@@ -3,6 +3,7 @@ layout: post
 title: "Git, la face cachée de l'iceberg"
 categories: [Méthodologie, Développement-Web]
 published: true
+image: "2020/02/gitflow.png"
 ---
 
 Git, un outil devenu tellement culte que l’ensemble des développeurs le connaissent, ou du moins pense le connaître. 
