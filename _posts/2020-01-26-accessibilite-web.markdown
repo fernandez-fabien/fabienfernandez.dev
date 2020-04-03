@@ -3,6 +3,7 @@ layout: post
 title: "L’accessibilité Web"
 categories: "Développement-Web"
 published: true
+excerpt: "Concept encore trop peu connue qu’est l’accessibilité Web qui rentre dans les normes et bonnes pratiques à connaître pour optimiser la navigation de son site."
 ---
 
 On connaît en général la notion de **Responsive Web Design** qui consiste à adapter son site au support (écran) utilisé par l’utilisateur, mais dans le même type de contexte la notion d’**accessibilité Web** est quant à elle bien moins mise en avant.

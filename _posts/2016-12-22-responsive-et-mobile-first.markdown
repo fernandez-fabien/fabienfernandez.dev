@@ -3,6 +3,7 @@ layout: post
 title: "Le Responsive Web Design et la technique du Mobile-first"
 categories: "Design"
 published: true
+excerpt: "Le Responsive Web design et l'orientation des travaux en prenant en compte la taille de l'écran mobile en premier temps pour réaliser le design de son site."
 ---
 
 La création du premier ordinateur mais surtout l’arrivée d’internet a marqué les dernières années de notre société. Dorénavant une majorité de personnes a accès à une connexion internet et celles-ci ont généralement, une utilisation journalière de cette dernière. Cette première évolution liée au monde de l’informatique est aujourd’hui rattrapée et même dépassée par une seconde révolution de notre ère, je veux bien entendu parler du smartphone. En effet, l’accès au Web se fait depuis peu, en majorité, en dehors de l’utilisation d’un ordinateur : en 2015, en France plus de 50% des connexions internet sont réalisées via des smartphones ou des tablettes, l’ordinateur est dépassé. 

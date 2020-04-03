@@ -4,6 +4,7 @@ title: "Les objectifs SMART"
 categories: "Méthodologie"
 published: true
 image: "2020/01/smart.png"
+excerpt: "Optimiser la rédaction de ses objectifs en utilisant le patron de conception SMART et en tirer les actions concrètes à réaliser en fonction pour les atteindre."
 ---
 ## Un but concret ?
 L’idée c’est de comprendre qu’il y a de bons et de mauvais objectifs, mais contrairement à la définition de la différence entre les types de chasseurs des Inconnus on va tâcher d’être plus concret...

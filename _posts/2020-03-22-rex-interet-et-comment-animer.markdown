@@ -4,6 +4,7 @@ title: "REX, son intérêt et comment l'animer"
 categories: [Méthodologie]
 published: true
 image: "2020/03/rex.jpeg"
+excerpt: "Le retour sur expérience permet de capitaliser sur un projet en adoptant une attitude bienveillante et objective en visant l’amélioration continue des processus"
 ---
 
 Bien vu, REX n’est pas le nom d’un chien, c’est simplement l’acronyme de Retour d’Expérience. 

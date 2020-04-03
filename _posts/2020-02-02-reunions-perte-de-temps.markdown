@@ -3,6 +3,7 @@ layout: post
 title: "Les réunions, une perte de temps ?"
 categories: "Méthodologie"
 published: true
+excerpt: "Mettre fin à la réunionite, les réunions incessantes et sans intérêt, apprenez à être efficient dans cet exercice, et organiser votre travail en équipe au mieux"
 ---
 
 Dans le sens général une **réunion** c’est simplement un temps pendant lequel se rassemblent des personnes. Pourtant dans le cadre professionnel peut-on vraiment s’arrêter à cette définition ? 

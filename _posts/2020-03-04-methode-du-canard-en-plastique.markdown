@@ -4,6 +4,7 @@ title: "La méthode du canard en plastique"
 categories: [Méthodologie]
 published: true
 image: "2020/03/canard.jpg"
+excerpt: "Le canard en plastique (méthode) est le meilleur ami du développeur Web freelance ou salarié, l’accompagne partout et répond à ses questions et problématiques."
 ---
 
 Vous êtes il déjà arrivé de rester bloqué sur une problématique durant des heures voir peut-être des jours ? 

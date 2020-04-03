@@ -4,6 +4,7 @@ title: "La culture du copier-coller "
 categories: [Méthodologie, Développement-Web]
 published: true
 image: "2020/02/copier-coller.jpg"
+excerpt: "Le copier-coller est utilisé par tout le monde est pourtant il faut se méfier de cette pratique ou du moins savoir l’appréhender avant de développer son site."
 ---
 
 Cette semaine nous déplorons le décès de Lawrence aussi appelé **Larry Tesler**.

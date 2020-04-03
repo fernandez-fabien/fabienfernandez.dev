@@ -4,6 +4,7 @@ title: "Un blog sans Wordpress ?"
 categories: [Développement-Web]
 published: true
 image: "2020/03/wordpress-jekyll.png"
+excerpt: "Blog n’est pas obligatoirement égal à Wordpress ou Wix, un développeur Web peut se permettre de choisir un outil comme Jekyll pour réaliser son propre site."
 ---
 
 Est-ce que je dois encore le présenter, [Wordpress](https://fr.wordpress.com/) est tout simplement l’outil de gestion de contenu le plus populaire au monde. Environ 35% des sites de la planète tournent sous Wordpress, tous sites confondus. 

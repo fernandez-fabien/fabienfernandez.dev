@@ -3,6 +3,7 @@ layout: post
 title: "L'ouverture"
 categories: "Story-telling"
 published: true
+excerpt: "Article pour présenter mon blog que je réalise en tant que Développeur Web Freelance, en mon nom : Fabien Fernandez. Sujets techniques et divers en tout genre."
 ---
 Nous y voilà ! Tout est enfin prêt pour l'ouverture de Mon **blog** !
 

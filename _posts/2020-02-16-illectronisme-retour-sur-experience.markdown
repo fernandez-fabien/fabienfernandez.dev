@@ -4,6 +4,7 @@ title: "L’illectronisme, retour sur expérience"
 categories: "Story-telling"
 published: true
 image: "2020/02/emmaus-connect.jpg"
+excerpt: "L’illectronisme touche plus de personnes que l’on ne le pense dans notre aire du numérique, la fracture est présente jusque dans le monde du Web, aidez-nous"
 ---
 
 Nous sommes en 2020 et ça fait déjà plusieurs années qu’on est passé dans le siècle appelé le **siècle du numérique**.

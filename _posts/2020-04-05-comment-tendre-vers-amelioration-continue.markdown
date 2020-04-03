@@ -4,6 +4,7 @@ title: "Comment tendre vers l'amélioration continue ?"
 categories: [Méthodologie]
 published: true
 image: "2020/04/pdca.png"
+excerpt: "L’amélioration continue est un but à atteindre que l’on peut viser via des outils comme la roue de Deming et le processus des pilliers Plan Do Check Act (PDCA)."
 ---
 
 Que pourrait-on rêver de mieux que se réveiller chaque jour en étant une meilleure version de nous-mêmes que la vieille ? 

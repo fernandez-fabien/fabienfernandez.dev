@@ -3,6 +3,7 @@ layout: post
 title: "Todolist, l'outil magique ?"
 categories: "Méthodologie"
 published: true
+excerpt: "Présentation de l’outil Todolist, soit au format papier ou numérique, cette méthodologie peut permettre de mieux  gérer les tâches à réaliser et prioriser."
 ---
 À l’heure où j’écris cet article, c’est la nouvelle année, le temps des grandes résolutions ! L’idée c’est de faire une liste des nouvelles choses à faire ou mettre en place pour que l’année soit meilleure que la dernière. C’est là qu’intervient la **Todolist**, l’outil simple, mais qui semble être la solution ultime ! Et oui, c’est souvent les outils les plus simples qui sont les plus efficaces ! 
 

@@ -4,6 +4,7 @@ title: "Git, la face cachée de l'iceberg"
 categories: [Méthodologie, Développement-Web]
 published: true
 image: "2020/02/gitflow.png"
+excerpt: "Git le logiciel de gestion de version le plus utilisé, mais connaissez-vous vraiment l’outil et savez-vous comment fonctionner avec lui dans vos projets web."
 ---
 
 Git, un outil devenu tellement culte que l’ensemble des développeurs le connaissent, ou du moins pense le connaître. 
