@@ -16,8 +16,11 @@
       {% endif %}
 
       <p class="mt-4 leading-loose">{{ site.description | escape }}</p>
+
+      {% include newsletter-subscription.html %}
     </div>
 
     {% include social-media-list.html %}
+
   </footer>
 </div>
