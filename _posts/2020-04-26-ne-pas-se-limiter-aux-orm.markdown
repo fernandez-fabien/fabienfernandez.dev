@@ -20,16 +20,16 @@ L’ORM est devenu un “must-have” dans les projets informatiques, ils en exi
 
 En effet ces derniers apportent une simplification plus que significative : 
 
-Partons du principe que nous ayons une entité User (utilisateur) dans notre application qui corresponde en base de données à une table ‘user’ qui contient les colonnes ‘email’ et ‘password’ (pour mot de passe’). Grâce à la relation établie via notre ORM nous allons pouvoir créer une instance de notre objet User et faire une demande de répercuter cette information en base dans la table associée (l’exemple suivant est développé avec Doctrine mais le concept reste le même pour l’ensemble des ORM).
+Partons du principe que nous ayons une entité User (utilisateur) dans notre application qui corresponde en base de données à une table ‘user’ qui contient les colonnes ‘email’ et ‘password’ (pour mot de passe’). Grâce à la relation établie via notre ORM nous allons pouvoir créer une instance de notre objet User et faire une demande de répercuter cette information en base dans la table associée (l’exemple suivant est développé en PHP mais le concept reste le même pour l’ensemble des ORM).
 
 ```php
 $user = new User();
 $user->email = "john@doe.fr";
 $user->password = "password";
-// Demande de répercussion à l’ORM doctrine
+// Demande de répercussion 
 $user->save();
 ```
-Ce simple appel à `save()` va permettre de faire la demande à notre **ORM** de traduire notre volonté à notre base relationnelle afin de reproduire l’action est de reste iso entre nos environnements. Il va ainsi produire la requête suivante en conséquence :
+Ce simple appel à `save()` va permettre de faire la demande à notre **ORM** de traduire notre volonté à notre base relationnelle afin de reproduire l’action et de rester iso entre nos environnements. Il va ainsi produire la requête suivante en conséquence :
 
 ```sql
 INSERT INTO user (email, password) VALUES ("john@doe.fr", "password");

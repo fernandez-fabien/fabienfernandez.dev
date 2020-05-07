@@ -1,0 +1,14 @@
+- id: 1
+  author: freddoe@example.com
+  date: 2020-05-06 20:28:10
+  content: |
+        Hello, dans ton premier exemple de code tu marques ceci : ``` $user = new User(); 
+        $user->email = "john@doe.fr"; $user->password = "password"; // Demande de répercussion à l’ORM doctrine $user->save(); ``` 
+        Or, avec Doctrine, l'entité n'a **aucun** lien avec la base de données. C'est l'EntityManager qui doit s'en occuper avec un appel à `$em->persist($user);` puis `$em->flush();`. :)
+- id: 2
+  author: Fabien Fernandez
+  author-url: https://fabienfernandez.dev/
+  date: 2020-05-07 09:13:00
+  content: |
+    Bonjour, merci pour tes retours !
+    En effet, j'étais à la base parti sur un exemple, puis je suis revenu dessus pour un exemple plus simple et plus accessible au grand public, sans pour autant corriger le contexte !
