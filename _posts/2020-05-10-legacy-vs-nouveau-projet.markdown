@@ -4,10 +4,10 @@ title: "Legacy VS Nouveau projet: une question de contexte ?"
 categories: [Développement-Web]
 published: true
 image: "2020/05/engrenages.jpg"
-excerpt: "Les ORM font parti intégrante des outils de programmation et gèrent la communication avec la base de données. On peut donc avoir une confiance aveugle en eux ?"
+excerpt: "On a tendance à toujours avancer et vouloir réaliser de nouveaux projets. Comment gérer l’existant ? Doit-on jeter le Legacy et se plonger sur l’évolution ?"
 --- 
 
-Sans rentrer dans le débat qui tend à dire qu’au fond tout ce qui est poussé en production devient automatiquement du code Legacy. J’aimerais plutôt parler du sujet qui apparaît en général comme un problème de fond.
+Sans rentrer dans le débat qui tend à dire qu’au fond tout ce qui est poussé en production devient automatiquement du code **Legacy**. J’aimerais plutôt parler du sujet qui apparaît en général comme un problème de fond.
 
 En effet, en général les développeurs ont toujours tendance à pousser les nouveaux projets, les nouvelles tendances, les nouvelles technologies pour remplacer les anciennes... Ce n’est pas à proscrire loin de là, mais il faut également savoir remettre en question et surtout étudier le contexte qui reste toujours le maître mot. 
 
@@ -15,7 +15,7 @@ On oublie souvent que si un vieux projet Legacy est toujours présent c’est qu
 
 {% include image.html img = "2020/05/engrenages.jpg" title = "Illustration des vieux engrenages repréentant un projet Legacy" style = "w-1/2" %}
 
-Bien sûr tout projet à une durée de vie, il faut souvent faire des opérations de maintenance sur un projet legacy afin de maintenir sa durée de vie. Tout ceci a un coût, et un développeur qui cherchera à s’épanouir poussera souvent pour abandonner le projet afin de se mettre à fond sur la nouvelle version. 
+Bien sûr tout projet à une durée de vie, il faut souvent faire des opérations de **maintenance** sur un projet legacy afin de maintenir sa durée de vie. Tout ceci a un coût, et un développeur qui cherchera à s’épanouir poussera souvent pour abandonner le projet afin de se mettre à fond sur la nouvelle version. 
 
 ## Le dilemme de la baguette 
 
@@ -30,7 +30,7 @@ Manger d’abord la moitié restante puis la moitié de la nouvelle. C’est la 
 Jeter la demi-baguette de la vieille et donc bafouer ses principes afin de pouvoir ne manger que du bon pain. Les principes représentent ici plutôt en général un chiffre d’affaires qui serait abandonné si on se consacrait uniquement au nouveau projet en arrêtant toute modification sur l’ancien sans avoir de garantie. 
 Se forcer à manger plus afin de pallier le problème. On parle ici d’heures supplémentaires ou de nouvelles ressources pour gérer les deux sujets en parallèle. Encore un investissement, ici qui peut paraître moins risqué, mais peut être plus intense sur le court terme. 
 
-Il existe sûrement d’autres solutions, mais l’idée est ici de comprendre qu’il n’y a souvent pas de solution miracle. Que toute manoeuvre qui peut paraître pour l’un évidente peut être mal venue sous un autre angle. En général il faut savoir prendre du recul, analyser le contexte avec toutes les parties prenantes pour proposer les bonnes solutions. 
+Il existe sûrement d’autres solutions, mais l’idée est ici de comprendre qu’il n’y a souvent pas de solution miracle. Que toute manoeuvre qui peut paraître pour l’un évidente peut être mal venue sous un autre angle. En général il faut savoir prendre du recul, analyser le **contexte** avec toutes les parties prenantes pour proposer les bonnes solutions. 
 
 Dans cette situation il est souvent nécessaire d’avancer à petits pas, car les actions brutales dans un sens ou dans l’autre peuvent être coûteuses que ça soit économiquement, mais dans d’autres domaines comme le moral des équipes ou autre.   
 
