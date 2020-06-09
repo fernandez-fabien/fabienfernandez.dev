@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Le design de l’avenir"
-categories: [Story-telling]
+categories: [Développement-Web, Design]
 published: true
 image: "2020/06/design.jpg"
-excerpt: "Mais au fond, qu’est-ce qu’un expert ? La définition s’arrête elle à la simple expérience temporelle dans un domaine ou va-t-elle plus loin que ça ?"
+excerpt: "La course à l’avancée technologique est continue et le Web avance également à une vitesse fulgurante. Le design des sites doivent-ils suivre le rythme ?"
 ---
 
 Aujourd’hui beaucoup de personnes ont leur propre site web qu’il soit personnel ou dans le cadre d’une activité professionnel.
