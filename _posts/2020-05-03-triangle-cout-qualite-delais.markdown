@@ -47,7 +47,7 @@ Certains ont tendance à penser que sous-estimer les délais ou les coûts lors 
 
 Je préconise la **transparence** et l’**accompagnement** du client. Vous me direz que cela coûtera des opportunités, les risques que le client se tourne vers la concurrence étant présents, mais il ne faut pas oublier que l’on a également sûrement évité un échec. On jouera sur la qualité et la longévité des projets plutôt que sur les coûts et la brièveté des coopérations. 
 
-Une des clés est, pour moi, d’accompagner le client dans la définition d’un **MVP** (**Minimum Valuable Product**). On va en fait restreindre, dans un premier temps, l’ensemble des fonctionnalités souhaitées (souvent trop étendue), à une liste minimale qui permettra au produit de prendre vie dans une première version rentable. 
+Une des clés est, pour moi, d’accompagner le client dans la définition d’un [**MVP** (**Minimum Valuable Product**)]({% post_url 2020-05-17-mvp-cocon-du-projet %}). On va en fait restreindre, dans un premier temps, l’ensemble des fonctionnalités souhaitées (souvent trop étendue), à une liste minimale qui permettra au produit de prendre vie dans une première version rentable. 
 
 Ce qui permettra de se concentrer sur l’essentiel sans s’éparpiller, avoir un coût et des délais plus abordables dans un premier temps, et permettra de tester le produit avant d’éventuellement l’améliorer par la suite. 
 
