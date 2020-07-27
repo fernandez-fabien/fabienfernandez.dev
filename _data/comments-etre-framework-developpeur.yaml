@@ -1,0 +1,16 @@
+- id: 1
+  author: thomas@engineor.com
+  date: 2020-07-27 09:12:50
+  content: |
+        C'est exactement le sujet (et titre) d'un de mes talks, que j'ai pu faire à l'AFUP Day Lyon cette année mais aussi en Serbie l'an dernier.
+
+        Dans ton article, tu dis "*il n’est pas nécessaire d’être ingénieur pour être développeurs*", et je trouve ça intéressant car pour moi les développeurs sont des ingénieurs, juste sans le titre d'ingénieur à la française.
+
+        Mes slides sont disponibles ici : https://docs.google.com/presentation/d/e/2PACX-1vRULaefqInu75DKLGSYznJ72xqpCakSA7Rrlic5emfk-axBUW2q3NNveZNLDIdl-BhoHt3bH9_f17Qt/pub?start=false&loop=false&delayms=3000
+- id: 2
+  author: Fabien Fernandez
+  author-url: https://fabienfernandez.dev/
+  date: 2020-07-27 09:53:00
+  content: |
+    Bonjour, merci pour ton retour, et ravi de voir que cette une vision partagée et que ce n'est pas seulement une lubi de notre part (séparemment) !
+    En effet, quand je parle du fait qu'il n'est pas nécessaire d'être ingénieur c'est plutôt dans la définition française du terme, uniquement basé sur les études et non les compétences qui en découlent. 
