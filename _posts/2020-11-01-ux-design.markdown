@@ -1,0 +1,54 @@
+---
+layout: post
+title: "UX :  un tour complet pour l’utilisateur"
+categories: [Développement-Web, Méthodologie]
+published: true
+image: "2020/11/ux.jpg"
+excerpt: "Qui est en charge du respect du besoin et de l'expérience utiliateur dans la réalisation d'un projet informatique ? Parlons de l'UX designer !"
+---
+
+Le développement de site ou d’application consiste en général en la réalisation d’un produit, cependant il rentre également dans le cadre plus général du service. 
+
+Les services sont des activités qui vont apporter une valeur ajoutée à un produit ou assurer un travail nécessaire à une entreprise ou à un particulier contre un prix. 
+
+La définition simplifiée d’un service pourrait ainsi être vue comme la réponse à un besoin. 
+
+Dans le monde de l’informatique, l’UX designer est une personne en charge de la qualité de ce service. 
+
+Mais qui est-il et quelle est vraiment sa fonction ?
+
+## Cesser l’amalgame
+
+UI et UX sont souvent des termes confondus, pourtant ils sont différents. 
+Le terme UI est l’abréviation d’user interface qui désigne l’interface utilisateur tandis que le terme UX vient d’user experience ou expérience utilisateur.
+
+ Le rôle de l’UI designer consiste à concevoir une interface agréable par le biais duquel l'utilisateur entre en contact avec le produit. Il met en œuvre ses compétences techniques et sa créativité pour concevoir des maquettes graphiques correspondant aux souhaits de son client. Il est donc responsable de l’identité visuelle de ce dernier et de l’aspect esthétique de l’interface. Il représente la face visible de l’iceberg. 
+
+Le travail de l’UX designer consiste quant à lui, à concevoir une interface accessible et facile à prendre en main pour tout type de support. Il analyse les souhaits du client et les besoins des cibles afin de concilier les deux et concevoir tout le travail d’architecture du site ou de l'application.
+
+L’UX est un travail de fond qui permet de considérer la totalité dudit iceberg. 
+
+## Concordance en maître mot
+
+La tâche consiste ainsi à concevoir un ensemble logique et harmonieux alliant dessin (forme et esthétisme) et dessein (but et utilité).
+
+Le point important se trouve être la cohérence permettant la composition de la stratégie, de la portée, de la structure, l’aspect et l’utilisation.
+
+{% include image.html img = "2020/11/ux.jpg" title = "Image d'illustration de l'UX design" style = "w-1/2" %}
+
+La recherche de l’affordance est une des caractéristiques qui permet de créer de la concordance et de la simplicité. 
+L’affordance étant la capacité d’un objet ou d’un système à évoquer son utilisation, sa fonction de manière intuitive. Par exemple, la poignée d’une porte incite l’individu à appuyer dessus pour ouvrir la porte. Dans le cadre informatique, on peut parler des boutons avec des images de disquette ou d’imprimante qui sont rentrés dans les moeurs (permettant respectivement d’enregistrer et d’imprimer) et qui sont utilisés sans que leur utilité soit explicitement renseignée. 
+
+L’évolution et la proposition de nouveautés doivent ainsi correctement être étudiées. Si, un site ou une application est trop innovant et différent de ses prédécesseurs, il peut y avoir un manque d'affordance susceptible de générer de la frustration et de l’incompréhension chez l'utilisateur ([voir résistance au changement]({% post_url 2020-09-13-conduite-de-changement %})).
+
+## L’utilisateur au centre
+
+On ne peut pas juger si une expérience utilisateur est bonne sans connaître le contexte et les besoins de l’utilisateur final. En effet, si l’application n’est pas dédiée au grand public elle peut ne  pas du tout être adaptée pour un utilisateur lambda, mais être très efficace pour l’usage spécifique auquel elle répond. 
+
+Comme son nom l’indique l’UX est centré sur l’expérience de l’utilisateur final, va-t-elle agréable, facile à comprendre, fluide et répondre à l’ensemble de ses besoins. 
+
+Le travail de l’UX designer (aussi désigné en tant qu’ergonome) se construit essentiellement autour de la communication et sur une bonne retranscription de la compréhension du besoin. 
+
+Pour faire une bonne UX, il faut être à l'écoute des utilisateurs. Il faut leur permettre de réagir à l’observation et l’élaboration du produit. Cela passe en général, par des ateliers de conception qui sont réalisés en collaboration directe avec le client et/ou les utilisateurs, avec des propositions et un suivi continu. 
+
+Impliquer l’utilisateur dans la réalisation est une des clés de la réussite de cette mission…
