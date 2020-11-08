@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Un remplaçant à Bootstrap trouvé pour le CSS ?"
-categories: [Développement-Web]
+categories: [Développement-Web, Design]
 published: true
 image: "2020/10/tailwind.jpg"
 excerpt: "Bootstrap est depuis un moment le leader des bibliothèques CSS. As-tu déjà entendu parlé de Tailwind ? Une nouvelle façon d'appréhender le design."
