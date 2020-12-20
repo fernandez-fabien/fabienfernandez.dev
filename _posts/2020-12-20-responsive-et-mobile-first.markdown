@@ -3,6 +3,7 @@ layout: post
 title: "Le Responsive Web Design et la technique du Mobile-first"
 categories: "Design"
 published: true
+image: "2020/12/responsive.jpg"
 excerpt: "Le Responsive Web design et l'orientation des travaux en prenant en compte la taille de l'écran mobile en premier temps pour réaliser le design de son site."
 ---
 
@@ -19,6 +20,8 @@ Parmi les méthodes d’adaptation certaines se distinguent des autres de par le
 La première et celle de l’application native ou du site dédié. Elle consiste comme son nom l’indique (en plus du site originel) de créer une application native ou un site Web qui sera dédiée à l’utilisation via un smartphone, le **design** et les fonctionnalités sont donc toutes pensées en ce sens. 
 La seconde, consiste quant à elle à revoir l’ensemble du design du site originel afin qu’il puisse s’adapter aux différentes tailles d’écrans et donc intrinsèquement aux différents types d’appareils utilisés. 
 Ces deux techniques ont un coût, pour ce qui est de la technique du Responsive Web Design, il est en général, dans le cas d’un site originel statique, plus intéressant de repartir d’une base vierge tout en gardant l’esprit et l’architecture général du site. Les coûts immédiats peuvent donc être plus importants pour la seconde méthode cependant sur la durée, la maintenance et la gestion de deux entités distinctes est plus lourdes tandis que le Responsive Design permet d’assurer la même information quelque que soit l’appareil utilisé. 
+
+{% include image.html img = "2020/12/responsive.jpg" title = "Image d'illustration du Responsive Design" style = "w-1/2" %}
 
 Une simple marche à suivre ? 
 Vous l’aurez donc compris le **Responsive Web Design** est une simple technique d’adaptation. Elle est aujourd’hui incontournable dans tout projet Web cependant même si la définition générale peut paraitre simple, elle n’est pas pour autant aisée et toute tracée. 
@@ -39,11 +42,3 @@ Il faut savoir « vivre avec son temps », cette phrase sonne d’autant plus vr
 
 <p class="signature text-right">Fabien Fernandez</p>
  
-
-*Sources* : 
-
-* <http://www.alsacreations.com/article/lire/1615-cest-quoi-le-responsive-web-design.html>
-
-* <http://www.ulayka.com/utilisation-internet-mobile-depasse-fixe-1292>
-
-* <http://www.blogdumoderateur.com/etude-mediametrie-usages-internet-2015/>
