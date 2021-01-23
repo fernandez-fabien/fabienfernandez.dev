@@ -2,7 +2,7 @@ title: Fabien Fernandez | Freelance Web Développeur
 title_home: Fabien Fernandez 
 email: contact@fabienfernandez.dev
 description: > # this means to ignore newlines until "baseurl:".
-  Ce blog est pourvu de divers thématiques, partant de sujets techniques concernant mes activités de développement Web, en passant par des méthodoligies qui m'inspirent jusqu'au simple Story telling ...
+  Ce blog est pourvu de divers thématiques, partant de sujets techniques concernant mes activités de développement Web, en passant par des méthodologies qui m'inspirent jusqu'au simple Story telling ...
   Les sujets sont nombreux en fonction de mes humeurs et mes envies de partage.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://fabienfernandez.dev" # the base hostname & protocol for your site, e.g. http://example.com
